@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @l-une
-- 👀 I’m interested in wi-fi, brootforce, broot, hash, password, bot, addon, cheat, upgrade and technical means for this.
+- 👀 I’m interested in wi-fi, brute-force-atack, hash, password, bot, addon, cheat, upgrade and technical means for this.
 - 🌱 I’m currently learning at home.
-- 💞️ I’m looking to collaborate on edward snowden, besik, w23, pavel durov, steave jobs
+- 💞️ I’m looking to collaborate with edward joseph snowden, besik, w23, pavel durov, steave jobs
 - 📫 How to reach me ...
 
 <!---
